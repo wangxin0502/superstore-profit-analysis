@@ -5,14 +5,14 @@ AIGC:
     ProduceID: 1694768359279929_0-drive/221912581520746833/README_本人版.md
     ReservedCode1: ""
     ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 1694768359279929#1790923921790
+    PropagateID: 1694768359279929#1790926092307
     ReservedCode2: ""
 ---
 # 🏪 Superstore 超市利润诊断分析
 
 > 基于 4 年、9,994 笔订单、800 位客户数据，按照「SQL → Python EDA → RFM 分群 → FineBI 看板」的流程，独立完成的端到端数据分析项目。
 >
-> 🔗 **在线交互看板**：[FineBI 利润看板](https://demo.fanruan.com/webroot/decision/link/Nt0z)　|　📄 **完整报告**：[分析报告.pdf](分析报告.pdf)
+> 🔗 **在线交互看板**：[FineBI 利润看板](https://demo.fanruan.com/webroot/decision/link/Nt0z)　|　📄 **完整报告**：[分析报告.pdf](https://github.com/wangxin0502/superstore-profit-analysis/raw/main/%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)（点击直接打开/下载）
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20SQLite-4479A1) ![Python](https://img.shields.io/badge/Python-pandas-3776AB) ![BI](https://img.shields.io/badge/BI-FineBI-26B99A)
 
