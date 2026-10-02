@@ -1,13 +1,4 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 1694768359279929_0-drive/221912581520746833/README_本人版.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 1694768359279929#1790926092307
-    ReservedCode2: ""
----
 # 🏪 Superstore 超市利润诊断分析
 
 > 基于 4 年、9,994 笔订单、800 位客户数据，按照「SQL → Python EDA → RFM 分群 → FineBI 看板」的流程，独立完成的端到端数据分析项目。
